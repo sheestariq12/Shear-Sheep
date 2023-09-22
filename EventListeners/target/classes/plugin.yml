@@ -1,0 +1,5 @@
+name: EventListeners
+version: '1.0-SNAPSHOT'
+main: me.mcstartup.eventlisteners.EventListenners
+api-version: '1.16'
+description: a tutuorial; plugin for event listeners
